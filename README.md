@@ -4,6 +4,8 @@ The Terminal Kung Fu repo contains different stuff related to Command Line Inter
 
 <ul>
   <li>
-    <a href="#">How do I search my command-line history for commands I used before?</a>
+    <a href="/how-do-i-search-my-command-line-history-for-commands-i-used-before">
+      How do I search my command-line history for commands I used before?
+    </a>
   </li>
 </ul>
