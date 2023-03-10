@@ -1,0 +1,5 @@
+// Source:
+// https://askubuntu.com/questions/74631/how-do-i-search-my-command-line-history-for-commands-i-used-before
+
+[CTRL] + [R] + search-keyword
+[CTRL] + [R]  => Next matching element
