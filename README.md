@@ -8,4 +8,9 @@ The Terminal Kung Fu repo contains different stuff related to Command Line Inter
       How do I search my command-line history for commands I used before?
     </a>
   </li>
+    <li>
+    <a href="/visual-directory">
+      How do I display a directory visually?
+    </a>
+  </li>
 </ul>
